@@ -1,4 +1,4 @@
-# Homework05
+# Study on Wikipedia HyperLinks
 As were asked in the [HomeWork Page](https://github.com/CriMenghini/ADM-2018/tree/master/Homework_5) we had to explore and analyze a dataset containing information related to articles in Wikipedia. We had three different files to import and to work with:
 
 
